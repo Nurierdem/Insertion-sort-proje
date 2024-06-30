@@ -1,5 +1,3 @@
-# Insertion-sort-proje
-Big-O gösterimi
 # Insertion/Selection Sort
 
 ### Proje 1
